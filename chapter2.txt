@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my new changes.
+=======
+hello world!
+>>>>>>> testing
